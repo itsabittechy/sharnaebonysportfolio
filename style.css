@@ -1,5 +1,6 @@
 body {
     background-color: #6d3908;
+    background-image: url('webpagefront.jpg') -webkit-linear-gradient();
    }
    h1 {
     font-family: Apple Chancery,cursive;
