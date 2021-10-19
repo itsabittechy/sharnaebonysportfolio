@@ -3,5 +3,8 @@ body {
     background-color: #6d3908;
    }
    h1 {
-    font-style: Apple Chancery, cursive;
+    font-family: Apple Chancery,cursive;
   } 
+  h1 {
+    font-style: italic;
+  }
