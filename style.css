@@ -1,10 +1,14 @@
-head {
+body {
     background-color: #6d3908;
-    background-image: url('../sharnaebonysprofolio/webpagefront.jpg') -webkit-linear-gradient();
+    background-image: url('webpagefront.jpg') -webkit-linear-gradient();
    }
-   h1 {
-    font-family: Apple Chancery,cursive;
-  } 
   h1 {
+    font-family: Apple Chancery,cursive;
     font-style: italic;
+    color: rgb(207, 172, 76);
+  }
+  h1 {
+    background-color: #6d3908;
+    text-align: center;
+    padding: 20px;
   }
