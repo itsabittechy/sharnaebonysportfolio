@@ -13,29 +13,29 @@ body {
   footer {
     background-color: #6d3908;
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
     color: rgb(207, 172, 76);
   }
-  ol {
+  ol{
     list-style-type: none;
     margin: 5;
     padding: 5px;;
   }
-  li {
+  li{
     display: inline;
   }
-  li {
+  li{
     float: right;
   }
   
-  a {
+  a{
     display: block;
     padding: 8px;
     background-color: rgb(207, 172, 76);
   }
-  ol {
+  ol{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -44,10 +44,10 @@ body {
   }
   
   li {
-    float: right;
+    float: right;  
   }
   
-  li a {
+  li a{
     display: block;
     color: #6d3908;
     text-align: center;
@@ -56,9 +56,16 @@ body {
   }
   
   li a:hover {
-    background-color:rgb(207, 172, 76) ;
+    background-color:#6d3908 ;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
-    color: #6d3908
+    color: rgb(207, 172, 76)
 
+  }
+  ul {
+    float:left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden
   }
