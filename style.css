@@ -18,7 +18,7 @@ body {
     font-style: italic;
     color: rgb(207, 172, 76);
   }
-  ul {
+  ol {
     list-style-type: none;
     margin: 5;
     padding: 5px;;
@@ -33,9 +33,9 @@ body {
   a {
     display: block;
     padding: 8px;
-    background-color: #6d3908;
+    background-color: rgb(207, 172, 76);
   }
-  ul {
+  ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -56,9 +56,9 @@ body {
   }
   
   li a:hover {
-    background-color: #6d3908;
+    background-color:rgb(207, 172, 76) ;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
-    color: rgb(207, 172, 76)
+    color: #6d3908
 
   }
