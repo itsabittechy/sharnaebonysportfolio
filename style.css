@@ -46,7 +46,7 @@ body {
   li {
     float: right;  
   }
-  
+
   li a{
     display: block;
     color: #6d3908;
@@ -54,13 +54,13 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+
   li a:hover {
     background-color:#6d3908 ;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
     color: rgb(207, 172, 76)
-
+    
   }
   ul {
     float:left;
