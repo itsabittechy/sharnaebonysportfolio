@@ -1,6 +1,11 @@
-body {
-    background-color: #6d3908;
+body  {
+    background-image: url('webpagefront.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:rgb(207, 172, 76);
     background-image: url('webpagefront.jpg') -webkit-linear-gradient();
+
    }
   .header {
     font-family: 'Times New Roman', Times, serif;
@@ -13,7 +18,7 @@ body {
   footer {
     background-color: #6d3908;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
     color: rgb(207, 172, 76);
@@ -81,6 +86,6 @@ body {
   #footer {
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 97.5%;
     height: 2.rem;            /* Footer height */
   }
